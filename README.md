@@ -1,1 +1,1 @@
-# UniversityInventorySystem
+hello sir, this is sumit thapa , this project main aspect is to create a university inventory System . While executing this programme i get to know about polymorphism, Data Encapsulation, Inheritance, Exception handling more clearly. Not only that i get a more real world scenario coding idea. At a certain part i had faced really hard times but with the help of AI tools i get ideas to tackle those. And i really enjoy a lot challenging my self . Thank you sir.
